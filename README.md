@@ -1,6 +1,6 @@
-# Mortgage Default Analysis - CMLTI 2006-NC2
+# Mortgage Default Analysis 
 
-Analysis of mortgage defaults in the CMLTI 2006-NC2 loan pool, originated just before the 2008 US financial crisis. The whole analysis is in one notebook.
+Analysis of mortgage defaults in a loan pool, originated just before the 2008 US financial crisis. The whole analysis is in one notebook.
 
 ## Notebook structure
 
